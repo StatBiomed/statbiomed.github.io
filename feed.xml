@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-16T21:52:58+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Workshop on Single-Cell Data Science</title><link href="http://localhost:4000/news/workshop.html" rel="alternate" type="text/html" title="Workshop on Single-Cell Data Science" /><published>2022-04-10T00:00:00+08:00</published><updated>2022-04-10T00:00:00+08:00</updated><id>http://localhost:4000/news/workshop</id><content type="html" xml:base="http://localhost:4000/news/workshop.html"><![CDATA[<p>Together with Joshua, Xi and Zhixiang, we are excited to host the <a href="https://singlecell2022.hku.hk">NSFC/RGC Workshop on Single-Cell Data Science</a> on 
+1-2 June 2022.</p>
+
+<p>We much look forward to catching up with regional and global researchers for their recent works in this field, and making new friends!</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[Together with Joshua, Xi and Zhixiang, we are excited to host the NSFC/RGC Workshop on Single-Cell Data Science on 1-2 June 2022.]]></summary></entry><entry><title type="html">Lab expanding towards mature</title><link href="http://localhost:4000/news/labgrow.html" rel="alternate" type="text/html" title="Lab expanding towards mature" /><published>2021-10-25T00:00:00+08:00</published><updated>2021-10-25T00:00:00+08:00</updated><id>http://localhost:4000/news/grow</id><content type="html" xml:base="http://localhost:4000/news/labgrow.html"><![CDATA[<p>We are excited to see the further expansion of our lab by welcoming Ruiyan and 
+Chen C as our newest lab members in the new semester.</p>
+
+<p>Ruiyan is trained in biology in Shanxi Normal Univ and CAS Institute of Zoology,
+and gradually found her interest in leveraging computational skills to tickle 
+biological challenges at a large scale. In her PhD study, she has a focus on 
+the analysis of cell heterogeneity on alternative splicing between cell states 
+or disease conditions.</p>
+
+<p>Chen C is trained in biology at Zhejiang Univ and has good exposure to 
+statistical modelling. As an MPhil student, he is currently working on 
+predicting CRISPR editing outcomes from sequences as a machine learning task.</p>
+
+<p>Now, we are expanding towards the size of a start-up lab with members all
+having strong interests in biomedical data science and from mixed backgrounds 
+and skill sets: biological knowledge and interpretation, statistical modelling, 
+software development, applied data science, etc. We learn from and support 
+each other, and we believe the interdisciplinary team does better 
+interdisciplinary research!</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[We are excited to see the further expansion of our lab by welcoming Ruiyan and Chen C as our newest lab members in the new semester.]]></summary></entry><entry><title type="html">Welcome Mingze</title><link href="http://localhost:4000/news/welcome2101.html" rel="alternate" type="text/html" title="Welcome Mingze" /><published>2021-01-14T00:00:00+08:00</published><updated>2021-01-14T00:00:00+08:00</updated><id>http://localhost:4000/news/jan</id><content type="html" xml:base="http://localhost:4000/news/welcome2101.html"><![CDATA[<p>We welcome Mingze joined us as new PhD student. Mingze is the third member in the lab trained in Automation during undergraduate (at Xi’an JTU), and found the path to biomedical data science (at Imperial). He is now working on Bayesian modelling of single-cell transcriptomics and RNA splicing dynamics.</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[We welcome Mingze joined us as new PhD student. Mingze is the third member in the lab trained in Automation during undergraduate (at Xi’an JTU), and found the path to biomedical data science (at Imperial). He is now working on Bayesian modelling of single-cell transcriptomics and RNA splicing dynamics.]]></summary></entry><entry><title type="html">New semester</title><link href="http://localhost:4000/news/semester20.html" rel="alternate" type="text/html" title="New semester" /><published>2020-09-21T00:00:00+08:00</published><updated>2020-09-21T00:00:00+08:00</updated><id>http://localhost:4000/news/semester</id><content type="html" xml:base="http://localhost:4000/news/semester20.html"><![CDATA[<p>As a new semester &amp; academic year starts from September, we very warmly welcome 
+our new lab members. Rongting starts her new life in Hong Kong as our first PhD
+student, and is stretching statistical machine learning into cancer genomics. 
+As a joint PhD student, Weizhong is broadening our interests in phylogenetics. 
+Jerry and Julia join us through their final year projects by tasting biomedical 
+research from computational view. Their joining excites us a lot, particularly 
+in this difficult year.</p>
+
+<p>During the summer, we had the chance to host three bright biomedical interns 
+on a few fun projects: Kevin on modelling the mutations on SARS-CoV-2 genome, 
+Mona on analysing splicing fidelity and alternative, and Jerry on studying B 
+cell receptor repertoire in a network way. We say goodbye to them and hope they 
+will keep enjoying science in future.</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[As a new semester &amp; academic year starts from September, we very warmly welcome our new lab members. Rongting starts her new life in Hong Kong as our first PhD student, and is stretching statistical machine learning into cancer genomics. As a joint PhD student, Weizhong is broadening our interests in phylogenetics. Jerry and Julia join us through their final year projects by tasting biomedical research from computational view. Their joining excites us a lot, particularly in this difficult year.]]></summary></entry><entry><title type="html">Welcome new members</title><link href="http://localhost:4000/news/june.html" rel="alternate" type="text/html" title="Welcome new members" /><published>2020-06-30T00:00:00+08:00</published><updated>2020-06-30T00:00:00+08:00</updated><id>http://localhost:4000/news/june</id><content type="html" xml:base="http://localhost:4000/news/june.html"><![CDATA[<p>We welcome Dr. Chen Qiao joined us as a postdoctoral fellow, and 
+Mr. Xianjie Huang joined us as an Research assistant in June.</p>
+
+<p>Chen earned his PhD in data science in education and expertise in graph neural 
+network and statistical machine learning, which are seamlessly transferred into 
+biomedical data science.</p>
+
+<p>Xianjie has a background in molecular biology but enjoys programming in C/Python
+and software development. He is further stepping into analysis of cellular
+genetics.</p>
+
+<p>These two braves are respected for joining a brand new lab and being quarantined
+for two weeks before arrival due to COVID-19.</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[We welcome Dr. Chen Qiao joined us as a postdoctoral fellow, and Mr. Xianjie Huang joined us as an Research assistant in June.]]></summary></entry><entry><title type="html">New journey starts</title><link href="http://localhost:4000/news/start.html" rel="alternate" type="text/html" title="New journey starts" /><published>2019-12-20T00:00:00+08:00</published><updated>2019-12-20T00:00:00+08:00</updated><id>http://localhost:4000/news/start</id><content type="html" xml:base="http://localhost:4000/news/start.html"><![CDATA[<p>The Huang lab starts at HKU jointly between the School of Biomedical Sciences 
+and the Department of Statistics and Actuarial Science. 
+We look for motivated people to join us and welcome collaborations.</p>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[The Huang lab starts at HKU jointly between the School of Biomedical Sciences and the Department of Statistics and Actuarial Science. We look for motivated people to join us and welcome collaborations.]]></summary></entry></feed>

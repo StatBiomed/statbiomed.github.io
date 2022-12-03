@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-19T11:55:21+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">End of summer</title><link href="http://localhost:4000/news/summer2022.html" rel="alternate" type="text/html" title="End of summer" /><published>2022-09-17T00:00:00+08:00</published><updated>2022-09-17T00:00:00+08:00</updated><id>http://localhost:4000/news/summer</id><content type="html" xml:base="http://localhost:4000/news/summer2022.html"><![CDATA[<p>This summer it was a lot of fun to host undergraduates Jinhui, Amy, Kevin, Grace and Alva in the lab for their internships. They are in different academic years (Y1 to Y4) but worked as a team supporting each other to implement beta-binomial regression models from scratch in Python and apply them to different contexts.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-03T21:12:45+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Three Years</title><link href="http://localhost:4000/news/3years.html" rel="alternate" type="text/html" title="Three Years" /><published>2022-12-03T00:00:00+08:00</published><updated>2022-12-03T00:00:00+08:00</updated><id>http://localhost:4000/news/threeyears</id><content type="html" xml:base="http://localhost:4000/news/3years.html"><![CDATA[<p>In October, Chen finished his training in the lab and started a new journey as 
+a data scientist in the industry (Illumina Singapore). We are very lucky to 
+have him as the first lab member and worked on multiple cool things. We will 
+miss him and wish him to keep enjoying the exploration of research and wild nature.</p>
+
+<p>This month, we also welcome our new member Lu joining us as a research assistant. 
+Together with her, we are starting to explore a new area of image analysis, 
+where we anticipate exciting medical applications and strengthen our 
+machine-learning expertise.</p>
+
+<p>Also, it’s been three years since our lab was established this month. If using 
+a single word to summarise, it would be “growth”.</p>
+
+<ul>
+  <li>It is a growth of lab size. I feel blessed to have a group of amazing people 
+around who love science and support each other.</li>
+  <li>It is a growth of courage to face failures, for both myself and lab members. 
+Research is of high failures (maybe that’s why it’s called research), and we 
+are adapting our attitudes from hating failures to enjoying proposing new ideas.</li>
+  <li>It is a growth of feedback in the research management paradigm, primarily to 
+myself but also to the trainees. I like the philosophy of minimal management 
+or a self-organised system but still accumulating data to assess its 
+generalisability in maximising both happiness and success for trainees.</li>
+</ul>]]></content><author><name>Yuanhua Huang</name></author><summary type="html"><![CDATA[In October, Chen finished his training in the lab and started a new journey as a data scientist in the industry (Illumina Singapore). We are very lucky to have him as the first lab member and worked on multiple cool things. We will miss him and wish him to keep enjoying the exploration of research and wild nature.]]></summary></entry><entry><title type="html">End of summer</title><link href="http://localhost:4000/news/summer2022.html" rel="alternate" type="text/html" title="End of summer" /><published>2022-09-17T00:00:00+08:00</published><updated>2022-09-17T00:00:00+08:00</updated><id>http://localhost:4000/news/summer</id><content type="html" xml:base="http://localhost:4000/news/summer2022.html"><![CDATA[<p>This summer it was a lot of fun to host undergraduates Jinhui, Amy, Kevin, Grace and Alva in the lab for their internships. They are in different academic years (Y1 to Y4) but worked as a team supporting each other to implement beta-binomial regression models from scratch in Python and apply them to different contexts.</p>
 
 <p>Following the pre-training,  Grace and Kevin will further conduct their Final Year Projects in the lab. Now, both of them are playing with neural network models to capture patterns in single-cell genomics and transcriptomics.</p>
 
